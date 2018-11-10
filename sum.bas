@@ -1,0 +1,5 @@
+20 FOR N = 1 TO 20
+40   LET S = S + N/10
+50 NEXT N
+60 PRINT S
+70 END
