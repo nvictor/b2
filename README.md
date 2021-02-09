@@ -1,3 +1,3 @@
-# basic2
-BASIC interpreter. An exercise in the Go programming language.
+# b2
 
+A BASIC interpreter. An exercise and excuse for using the Go programming language.
