@@ -1,4 +1,4 @@
-// basic2 is an interpreter for the DARTMOUTH BASIC programming language.
+// b2 is an interpreter for the DARTMOUTH BASIC programming language.
 // The implementation is a translation of Peter Norvig's Python implementation
 // and is meant as a programming exercise in the Go programming language. See
 // Peter's implementation here:
